@@ -1,6 +1,6 @@
 "use client"
 
-
+import { FilterBar } from '@/components/filter-bar'
 import { styled } from 'styled-components'
 
 const PageWrapper = styled.main`
@@ -12,9 +12,9 @@ const PageWrapper = styled.main`
 export default function Home() {
 
   return (
-    
+
       <PageWrapper>
-        
+        <FilterBar/>
       </PageWrapper>
   )
 }
