@@ -1,6 +1,7 @@
 "use client"
 
 import { FilterBar } from '@/components/filter-bar'
+import { ProductsList } from '@/components/products-list'
 import { styled } from 'styled-components'
 
 const PageWrapper = styled.main`
@@ -15,6 +16,7 @@ export default function Home() {
 
       <PageWrapper>
         <FilterBar/>
+        <ProductsList/>
       </PageWrapper>
   )
 }
