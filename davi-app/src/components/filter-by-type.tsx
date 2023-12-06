@@ -30,7 +30,10 @@ const FilterItem = styled.li<FilterItemProps>`
 
     border-bottom: ${props => props.selected ? '4px solid var(--orange-low);' : ''}
 
-    
+    @media(min-width: ${props => props.theme.desktopBreakpoint}){
+        font-size: 16px;
+        line-height: 22px;
+    }
 `
 export function FilterByType(){
 
