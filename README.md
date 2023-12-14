@@ -9,9 +9,6 @@ Desafio Frontend Capputeeno, criado pela Rocketseat com o objetivo de aprimorar 
 
 ![Captura de tela de 2023-12-14 19-22-26](https://github.com/DaviCorreia/Desafio_FrontEnd_RocketSeat_/assets/52337256/53546d43-f083-493d-9909-c46d488bb91f)
 
-
-(https://github.com/DaviCorreia/Desafio_FrontEnd_RocketSeat_/assets/52337256/ae7b80e9-1287-450e-8b7e-a5fe976faf2e)
-
 O desafio consiste em implementar uma plataforma de comércio eletrônico para a venda de canecas e camisetas, apresentando as seguintes funcionalidades:
 
 - [x] Catálogo de produtos 
