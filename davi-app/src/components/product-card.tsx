@@ -1,6 +1,7 @@
 import { useRouter } from "next/navigation"
 import { styled } from "styled-components"
 import { formatPrice } from "../../utils/format-price"
+import { Divider } from "./divider"
 
 interface ProductCardProps {
     image: string,
